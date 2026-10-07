@@ -1,0 +1,19 @@
+{
+  "name": "leoworkman-mods",
+  "owner": { "name": "Leoworkman" },
+  "metadata": {
+    "description": "Claude Code 介面小工具：任務進度條、用量列。各自獨立，挑想要的安裝。"
+  },
+  "plugins": [
+    {
+      "name": "task-progress",
+      "source": "./plugins/task-progress",
+      "description": "輸入框上方列出各對話正在跑的任務：進度條、百分比、預估剩餘時間，點名稱跳回該對話"
+    },
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "輸入框上方一行顯示 context 占用、5 小時用量與重置時間、每週用量"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "輸入框上方一行顯示 context 占用、5 小時用量與重置時間、每週用量；按 × 隱藏，/usage-pin 再顯示",
+  "author": { "name": "Leoworkman" },
+  "homepage": "https://github.com/Leoworkman/claude-mods",
+  "repository": "https://github.com/Leoworkman/claude-mods",
+  "keywords": ["usage", "rate-limit", "context", "ui"],
+  "types": "./types/index.d.ts"
+}

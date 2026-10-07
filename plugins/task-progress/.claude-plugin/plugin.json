@@ -1,0 +1,10 @@
+{
+  "name": "task-progress",
+  "version": "0.1.0",
+  "description": "輸入框上方列出各對話正在跑的任務：進度條、百分比、預估剩餘時間，點名稱跳回該對話",
+  "author": { "name": "Leoworkman" },
+  "homepage": "https://github.com/Leoworkman/claude-mods",
+  "repository": "https://github.com/Leoworkman/claude-mods",
+  "keywords": ["progress", "sessions", "ui"],
+  "types": "./types/index.d.ts"
+}
